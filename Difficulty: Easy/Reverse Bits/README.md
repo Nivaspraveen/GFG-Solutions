@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/reverse-bits--142401/1?page=1&sortBy=accuracy">Reverse Bits</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="background-color: #ffffff; color: #273239; font-family: Nunito, sans-serif; font-size: 18px; letter-spacing: 0.162px; text-align: justify;">Reverse bits of a given 32 bits integer.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/reverse-bits--142401/1?page=2&sortBy=latest">Reverse Bits</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="background-color: #ffffff; color: #273239; font-family: Nunito, sans-serif; font-size: 18px; letter-spacing: 0.162px; text-align: justify;">Reverse bits of a given 32 bits integer.</span></p>
 <p><strong style="font-size: 18px;">Examples:</strong></p>
 <pre><span style="font-size: 18px;"><strong>Input: </strong></span><span style="font-size: 18px;">n = 00000010100101000110000010000000</span><span style="font-size: 18px;">
 <strong>Output: </strong>00000001000001100010100101000000<strong>
