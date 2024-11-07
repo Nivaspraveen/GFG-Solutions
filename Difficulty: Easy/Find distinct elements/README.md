@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/find-distinct-elements--130928/1?page=4&sortBy=accuracy">Find distinct elements</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an integer array<strong> arr[]</strong><strong>,</strong> return the <strong>count</strong> of all the <strong>distinct</strong> elements in an array</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/find-distinct-elements--130928/1?page=1&sortBy=latest">Find distinct elements</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an integer array<strong> arr[]</strong><strong>,</strong> return the <strong>count</strong> of all the <strong>distinct</strong> elements in an array</span></p>
 <p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [2, 2, 3, 2]
 <strong>Output:</strong> 2<br><strong>Explanation: </strong>Distinct elements are {2, 3}</span></pre>
