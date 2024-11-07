@@ -39,12 +39,12 @@ function main() {
  */
 class Solution {
     minSubsets(arr) {
+        if (arr.length === 0) return 0;
         arr.sort((a, b) => a - b);
-        let subsetCount = 0;
-        for (let i = 0; i < arr.length; i++) {
-            subsetCount++;
-            while (i < arr.length - 1 && arr[i + 1] === arr[i] + 1) i++;
+        let count = 1;
+        for (let i = 1; i < arr.length; i++) {
+            if (arr[i] !== arr[i - 1] + 1) count++;
         }
-        return subsetCount;
+        return count;
     }
 }
