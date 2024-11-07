@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/queue-reversal/1?page=15&sortBy=submissions">Queue Reversal</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a Queue <strong>Q</strong> containing <strong>N</strong> elements. The task is to reverse the Queue. Your task is to complete the&nbsp;function <strong>rev(), </strong>that reverses the <strong>N</strong> elements of the queue.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/queue-reversal/1?page=3&sortBy=accuracy">Queue Reversal</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a Queue <strong>Q</strong> containing <strong>N</strong> elements. The task is to reverse the Queue. Your task is to complete the&nbsp;function <strong>rev(), </strong>that reverses the <strong>N</strong> elements of the queue.</span></p>
 <p><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:
 </strong>6
