@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/bits-counting/1?page=3&sortBy=accuracy">Bits Counting</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given an integer <strong>n</strong>, return an <strong>array</strong> ans of size<strong> n + 1</strong>, where each element i (0 ≤ i ≤ n) represents the count of 1s in the binary form of i.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/bits-counting/1?page=2&sortBy=latest">Bits Counting</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given an integer <strong>n</strong>, return an <strong>array</strong> ans of size<strong> n + 1</strong>, where each element i (0 ≤ i ≤ n) represents the count of 1s in the binary form of i.</span></p>
 <p><span style="font-size: 14pt;"><strong>Examples :</strong></span></p>
 <pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 2
 <strong>Output:&nbsp;</strong>[0, 1, 1]
