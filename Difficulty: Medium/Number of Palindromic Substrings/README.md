@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/number-of-palindromic-substrings/1?page=8&sortBy=accuracy">Number of Palindromic Substrings</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given a string&nbsp;<strong>s</strong>, return the total number of palindromic substrings in it.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/number-of-palindromic-substrings/1?page=2&sortBy=latest">Number of Palindromic Substrings</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given a string&nbsp;<strong>s</strong>, return the total number of palindromic substrings in it.</span></p>
 <blockquote>
 <p><span style="font-size: 14pt;">A string is considered a&nbsp;<strong>palindrome</strong>&nbsp;if it reads the same backward as forward. A&nbsp;<strong>substring</strong>&nbsp;is any&nbsp;<strong>contiguous sequence</strong>&nbsp;of characters within the string.</span></p>
 </blockquote>
