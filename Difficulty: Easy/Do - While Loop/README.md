@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/do-while-loop/1?page=3&sortBy=accuracy">Do - While Loop</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p>Given an integer&nbsp;<strong>n</strong>. Print string <strong>"Geeksforgeeks"&nbsp;</strong>n times but a minimum of 1 time using a <strong>do-while</strong> loop.<br>Note: n can be less than 0.</p>
+<h2><a href="https://www.geeksforgeeks.org/problems/do-while-loop/1?page=1&sortBy=latest">Do - While Loop</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p>Given an integer&nbsp;<strong>n</strong>. Print string <strong>"Geeksforgeeks"&nbsp;</strong>n times but a minimum of 1 time using a <strong>do-while</strong> loop.<br>Note: n can be less than 0.</p>
 <p><strong>Examples:</strong></p>
 <pre><span style="font-size: 14pt;"><strong>Input:</strong> 3<br><strong>Output: <br></strong>Geeksforgeeks<br>Geeksforgeeks<br>Geeksforgeeks<strong><br>Explanation: </strong>Printed "Geeksforgeeks" 3 times.</span></pre>
 <p>&nbsp;</p>
