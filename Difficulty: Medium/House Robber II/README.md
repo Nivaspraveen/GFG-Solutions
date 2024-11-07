@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/house-robber-ii/1?page=5&sortBy=latest">House Robber II</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">There are <strong>n</strong> houses arranged in a circle, each with a certain value. A thief wants to maximize the value he can steal, but he cannot steal from two adjacent houses, as the owners will notify their neighbors. Given an integer array <code>arr</code>, where each element represents the value of a house, determine the maximum value the thief can steal without alerting the neighbors.</span></p>
+<p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Examples:</strong></span></p>
+<pre style="background: #eeeeee; border: 1px solid #cccccc; padding: 5px 10px;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Input: </strong>arr[] = [2, 3, 2]
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> nums[0] and nums[2] can't be robbed because they are adjacent houses.</span></pre>
+<pre style="background: #eeeeee; border: 1px solid #cccccc; padding: 5px 10px;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Input:</strong> arr[] = [1, 2, 3, 1]
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> Maximum stolen value: nums[0] + nums[2] = 1 + 3 = 4</span></pre>
+<p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Constraints:<br></strong>1&lt;= arr.size &lt;=10<sup>6</sup><br>0&lt;= arr[i] &lt;=10<sup>6</sup></span></p></div>
