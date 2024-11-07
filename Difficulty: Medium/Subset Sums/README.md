@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/subset-sums2234/1?page=13&sortBy=submissions">Subset Sums</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><div class="entry-content">
+<h2><a href="https://www.geeksforgeeks.org/problems/subset-sums2234/1?page=7&sortBy=accuracy">Subset Sums</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><div class="entry-content">
 <p><span style="font-size: 18px;">Given a&nbsp;list <strong>arr</strong> of <strong>n</strong> integers, return sums of all subsets in it.&nbsp;</span><span style="background-color: #ffffff; color: #273239; font-family: Nunito, sans-serif; font-size: 18px; letter-spacing: 0.162px;">Output sums can be printed in <strong>any&nbsp;order</strong>.</span></p>
 <p><strong><span style="font-size: 18px;">Examples:<br></span></strong></p>
 <pre><span style="font-size: 18px;"><strong>Input: </strong>n = 2, arr[] = {2, 3}</span>
