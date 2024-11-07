@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=5&sortBy=submissions">Rotate Array by One</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr</strong>, rotate the array by one position in clock-wise direction.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=11&sortBy=accuracy">Rotate Array by One</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr</strong>, rotate the array by one position in clock-wise direction.</span></p>
 <p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input: </strong>arr = [1, 2, 3, 4, 5]
 <strong>Output: </strong>[5, 1, 2, 3, 4]<br><strong>Explanation</strong>: If we rotate arr by one position in clockwise 5 come to the front and remaining those are shifted to the end.</span></pre>
