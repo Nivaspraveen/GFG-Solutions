@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1?page=6&sortBy=accuracy">Rotate doubly Linked List</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a doubly linked list, rotate the linked list counter-clockwise by P nodes. Here P is a given positive integer and is smaller than the count of nodes(N) in a linked list.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1?page=6&sortBy=latest">Rotate doubly Linked List</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a doubly linked list, rotate the linked list counter-clockwise by P nodes. Here P is a given positive integer and is smaller than the count of nodes(N) in a linked list.</span></p>
 
 <p><strong><span style="font-size:18px">Example 1:</span></strong><span style="font-size:18px"><strong> </strong></span></p>
 
