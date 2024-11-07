@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/check-if-array-contains-duplicates/1?page=2&sortBy=accuracy">Check if array contains duplicates</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18.6667px;">Given an integer array <strong>arr[]</strong>, check if the array contains any <strong>duplicate</strong> value.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/check-if-array-contains-duplicates/1?page=3&sortBy=latest">Check if array contains duplicates</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18.6667px;">Given an integer array <strong>arr[]</strong>, check if the array contains any <strong>duplicate</strong> value.</span></p>
 <p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 14pt;"><strong>Input: </strong>arr = [4, 5, 6, 4]<code>
 <strong>Output: </strong>true
